@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Gang He** and I am an Assistant Professor in the [Department of Technology and Society](https://www.stonybrook.edu/est/) @ [SBU](https://www.stonybrook.edu/). I use Github mostly for modeling and paper data sharing. I plan to share collections of repository that helps me in my research. Find out more at my website: [ganghe.net](https://www.ganghe.net/).
+My name is **Gang He** and I am an Assistant Professor in the [Department of Technology and Society](https://www.stonybrook.edu/est/) @ [Stony Brook University](https://www.stonybrook.edu/). I use Github mostly for modeling and paper data sharing. I share collections of repositories that help me in my research. Find out more at my website: [ganghe.net](https://www.ganghe.net/).
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=drganghe&theme=vue-dark&show_icons=true)
