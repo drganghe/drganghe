@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is **Gang He** and I am an Assistant Professor in the [Department of Technology and Society](https://www.stonybrook.edu/commcms/est/people/core_faculty/ghe.php) at [Stony Brook University](https://www.stonybrook.edu/). I use Github mostly for modeling and paper data sharing. I also share collections of repositories that help me in my research or daily life. You can find out more about my research at: [ganghe.net](https://www.ganghe.net/).
+My name is **Gang He** and I am an Assistant Professor in the <a href="https://www.stonybrook.edu/commcms/est/people/core_faculty/ghe.php" target="_blank">Department of Technology and Society</a> at <a href="https://www.stonybrook.edu" target="_blank">Stony Brook University</a>. I use Github mostly for modeling and paper data sharing. I also share collections of repositories that help me in my research or daily life. You can find out more about my research at: <a href="https://www.ganghe.net" target="_blank">www.ganghe.net</a>.
+
 
 <!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=drganghe&theme=vue-dark&show_icons=true)
@@ -10,7 +11,7 @@ My name is **Gang He** and I am an Assistant Professor in the [Department of Tec
 
 ### Research projects 
 
-- [Rapid-and-Just-Coal-Transition-in-China](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China): Data and files for our 2020 paper "Enabling a Rapid and Just Transition Away from Coal in China,” _One Earth_. 3 (2): 187–94. DOI: [10.1016/j.oneear.2020.07.012](https://doi.org/10.1016/j.oneear.2020.07.012)
+- [Rapid-and-Just-Coal-Transition-in-China](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China){:target="_blank"}: Data and files for our 2020 paper "Enabling a Rapid and Just Transition Away from Coal in China,” _One Earth_. 3 (2): 187–94. DOI: <a href="https://doi.org/10.1016/j.oneear.2020.07.012" target="_blank">10.1016/j.oneear.2020.07.012</a> 
 
 <!--
 **drganghe/drganghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
