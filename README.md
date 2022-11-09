@@ -18,8 +18,8 @@ My name is **Gang He** and I am an assistant professor in the Department of Tech
 
 ### Research repository
 
-- [solar-learning-2021](https://github.com/jhelvy/solar-learning-2021): Code and data for the 2022 paper "Quantifying the cost savings of global solar photovoltaic supply chains". _Nature_. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)  
-- [Rapid-and-Just-Coal-Transition-in-China](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China): Data and files for the 2020 paper "Enabling a Rapid and Just Transition Away from Coal in China,” _One Earth_. 3 (2): 187–94. DOI: [10.1016/j.oneear.2020.07.012](https://doi.org/10.1016/j.oneear.2020.07.012) 
+- [solar-learning-2021](https://github.com/jhelvy/solar-learning-2021): Code and data for John Paul Helveston, Gang He, and Michael R. Davidson. 2022. "Quantifying the cost savings of global solar photovoltaic supply chains". _Nature_. DOI: [10.1038/s41586-022-05316-6](https://doi.org/10.1038/s41586-022-05316-6)  
+- [Rapid-and-Just-Coal-Transition-in-China](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China): Data and files for He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. "Enabling a Rapid and Just Transition Away from Coal in China,” _One Earth_. 3 (2): 187–94. DOI: [10.1016/j.oneear.2020.07.012](https://doi.org/10.1016/j.oneear.2020.07.012)  
 
 
 ### Teaching repository
