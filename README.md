@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is **Gang He** and I am an assistant professor in the Department of Technology and Society at Stony Brook University. I use Github mostly for modeling/paper code/data and teaching material sharing. Here are [stars](https://github.com/drganghe?tab=stars) of repositories that help me in my research or daily life. You can find out more about my research at: [www.ganghe.net](https://www.ganghe.net).
+My name is **Gang He**, I study and teach energy systems, energy and climate policy, and energy transition. I use Github mostly for modeling/paper code/data and teaching material sharing. Here are [stars](https://github.com/drganghe?tab=stars) of repositories that help me in my research or daily life. You can find out more about my research at: [drganghe.github.io](https://drganghe.github.io).
 
 
 ### Research repository
