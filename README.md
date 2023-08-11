@@ -11,7 +11,7 @@ My name is **Gang He**, I study and teach energy systems, energy and climate pol
     - He et al. 2016. _Environmental Science & Technology_. DOI: [10.1021/acs.est.6b01345](https://doi.org/10.1021/acs.est.6b01345).  
     - He et al. 2020. _Nature Communications_. DOI: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x).
     - Zhang et al. 2021. _Journal of Cleaner Production_. DOI: [10.1016/j.jclepro.2021.129765](https://doi.org/10.1016/j.jclepro.2021.129765).
-<!--    - Peng et al. 2023. _Nature Communications_. DOI: [10.1038/s41467-020-16184-x](https://doi.org/10.1038/s41467-020-16184-x).-->
+    - Peng et al. 2023. _Nature Communications_. DOI: [10.1038/s41467-023-40337-3](https://doi.org/10.1038/s41467-023-40337-3).
 
 - [Rapid-and-Just-Coal-Transition-in-China](https://github.com/drganghe/Rapid-and-Just-Coal-Transition-in-China): Data and files for He, Gang, Jiang Lin, Ying Zhang, Wenhua Zhang, Guilherme Larangeira, Chao Zhang, Wei Peng, Manzhi Liu, and Fuqiang Yang. 2020. "Enabling a Rapid and Just Transition Away from Coal in China,” _One Earth_. 3 (2): 187–94. DOI: [10.1016/j.oneear.2020.07.012](https://doi.org/10.1016/j.oneear.2020.07.012) 
 
