@@ -18,7 +18,9 @@ My name is **Gang He**, I study and teach energy systems, energy and climate pol
 
 ### Teaching repository
 
-- [est603-energy-systems-analysis-2022-fall](https://github.com/drganghe/est603-energy-systems-analysis-2022-fall): Source code for my [Energy Systems Analysis](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) class  
+- [energy-climate-policy](https://github.com/drganghe/energy-climate-policy): Source code for my [Energy and Climate Policy](https://drganghe.github.io/energy-climate-policy)  
+- [energy-climate-society](https://github.com/drganghe/energy-climate-society): Source code for my [Energy, Climate, and Society](https://drganghe.github.io/energy-climate-society) class
+- [est603-energy-systems-analysis-2022-fall](https://github.com/drganghe/  est603-energy-systems-analysis-2022-fall): Source code for my [Energy Systems Analysis](https://drganghe.github.io/est603-energy-systems-analysis-2022-fall) class  
 
 
 ### Research profiles
